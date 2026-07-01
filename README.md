@@ -10,7 +10,13 @@ This is a full-stack notification system built for campus updates. It includes a
 ## Screenshots
 
 ### Frontend (Desktop View)
-*(Add desktop screenshot here)*
+<img width="1470" height="924" alt="Updates" src="https://github.com/user-attachments/assets/dc3b32c4-234f-4730-bfd5-ed649a956c96" />
+<img width="1470" height="932" alt="Updates" src="https://github.com/user-attachments/assets/702c56d8-70fa-43c6-b37b-2c61120d3f34" />
+<img width="1470" height="937" alt="Updates" src="https://github.com/user-attachments/assets/7dc90f3e-a0d1-41ca-b60e-44334e90594e" />
+<img width="1470" height="955" alt="Updates" src="https://github.com/user-attachments/assets/10393bbe-88e4-4f5b-a60d-34680ed6720a" />
+<img width="1470" height="930" alt="Screenshot 2026-07-01 at 12 40 03" src="https://github.com/user-attachments/assets/5c14e9cb-3c2e-4574-bd7e-6f6f2a377590" />
+
+
 
 ### Frontend (Mobile View)
 <img width="1470" height="1838" alt="image" src="https://github.com/user-attachments/assets/23618662-e558-4f37-8e2d-4e69c3270eb6" />
