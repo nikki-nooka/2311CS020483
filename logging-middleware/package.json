@@ -1,0 +1,12 @@
+{
+  "name": "campus-logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for the Campus Evaluation Full Stack application.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
