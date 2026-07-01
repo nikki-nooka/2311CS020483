@@ -13,7 +13,8 @@ This is a full-stack notification system built for campus updates. It includes a
 *(Add desktop screenshot here)*
 
 ### Frontend (Mobile View)
-*(Add mobile screenshot here)*
+<img width="1470" height="1838" alt="image" src="https://github.com/user-attachments/assets/23618662-e558-4f37-8e2d-4e69c3270eb6" />
+
 
 ### Backend (Postman / Insomnia API Test)
 *(Add backend API screenshot here)*
